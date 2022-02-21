@@ -1,15 +1,15 @@
-# HappyFFTW
+# HappyNLOPT
 
-Self hosted fftw library converted to Pod (http://fftw.org/)
+Self hosted nlopt library converted to Pod (https://nlopt.readthedocs.io/en/latest/)
 
 ## Installation
 
 ### Cocoapods
 
-HappyFFTW is available through [Cocoapods](http://cocoapods.org/). To install it, simply add the following source to your Podfile
+HappyNLOPT is available through [Cocoapods](http://cocoapods.org/). To install it, simply add the following source to your Podfile
 
 ```
-pod 'HappyFFTW', '3.3.9'
+pod 'HappyFFTW', '2.7.1'
 ```
 
 Then in command line, install the Pod.
