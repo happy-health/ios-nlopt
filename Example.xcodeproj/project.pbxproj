@@ -14,7 +14,6 @@
 		669FED05241B16DE00C7733C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 669FED03241B16DE00C7733C /* Main.storyboard */; };
 		669FED07241B16DF00C7733C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 669FED06241B16DF00C7733C /* Assets.xcassets */; };
 		669FED0A241B16DF00C7733C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 669FED08241B16DF00C7733C /* LaunchScreen.storyboard */; };
-		66E6DF8125C20375009ECAA1 /* FFT.m in Sources */ = {isa = PBXBuildFile; fileRef = 66E6DF8025C20375009ECAA1 /* FFT.m */; };
 		B0C4AFD85A62F826EB9DEC12 /* Pods_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D3A0BDA69F19A6C32FE4FB3 /* Pods_Example.framework */; };
 /* End PBXBuildFile section */
 
@@ -43,9 +42,6 @@
 		669FED0B241B16DF00C7733C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		669FED10241B16DF00C7733C /* ExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		669FED16241B16DF00C7733C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		66E6DF7825C20311009ECAA1 /* Example-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Example-Bridging-Header.h"; sourceTree = "<group>"; };
-		66E6DF7F25C20375009ECAA1 /* FFT.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FFT.h; sourceTree = "<group>"; };
-		66E6DF8025C20375009ECAA1 /* FFT.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FFT.m; sourceTree = "<group>"; };
 		673E8BF513B350E2FA289D28 /* Pods-ExampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExampleTests.debug.xcconfig"; path = "Target Support Files/Pods-ExampleTests/Pods-ExampleTests.debug.xcconfig"; sourceTree = "<group>"; };
 		90CC2F609372A4F5B9268DA7 /* Pods-Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Example.release.xcconfig"; path = "Target Support Files/Pods-Example/Pods-Example.release.xcconfig"; sourceTree = "<group>"; };
 		F23C1DC30DA79FCDF61B01C9 /* Pods-Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Example.debug.xcconfig"; path = "Target Support Files/Pods-Example/Pods-Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -105,10 +101,7 @@
 			children = (
 				664CB2FA2571A386008E6B1F /* Example.entitlements */,
 				669FECFD241B16DE00C7733C /* AppDelegate.swift */,
-				66E6DF7F25C20375009ECAA1 /* FFT.h */,
-				66E6DF8025C20375009ECAA1 /* FFT.m */,
 				669FED01241B16DE00C7733C /* ViewController.swift */,
-				66E6DF7825C20311009ECAA1 /* Example-Bridging-Header.h */,
 				669FED03241B16DE00C7733C /* Main.storyboard */,
 				669FED06241B16DF00C7733C /* Assets.xcassets */,
 				669FED08241B16DF00C7733C /* LaunchScreen.storyboard */,
@@ -307,7 +300,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				66E6DF8125C20375009ECAA1 /* FFT.m in Sources */,
 				669FED02241B16DE00C7733C /* ViewController.swift in Sources */,
 				669FECFE241B16DE00C7733C /* AppDelegate.swift in Sources */,
 			);

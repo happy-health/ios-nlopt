@@ -6,6 +6,7 @@
 //  Copyright © 2020 Happy Health, Inc. All rights reserved.
 //
 
+import HappyNLOPT
 import UIKit
 
 class ViewController: UIViewController {
@@ -13,9 +14,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        // Simple example of using FFTW. We're briding to obj-c until we
-        // do a direct swift implementation.
-        FFT.performForward()
+        let opt = nlopt_create(NLOPT_LD_MMA, 2)
+        print(opt)
     }
 
 }

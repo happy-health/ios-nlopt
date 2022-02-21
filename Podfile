@@ -2,7 +2,7 @@ platform :ios, '12.0'
 
 def shared_pods
   use_frameworks!
-  pod 'HappyFFTW', :path => './'
+  pod 'HappyNLOPT', :path => './'
 end
 
 target 'Example' do
