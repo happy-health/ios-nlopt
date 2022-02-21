@@ -1,6 +1,6 @@
 # HappyNLOPT
 
-Self hosted nlopt library converted to Pod (https://nlopt.readthedocs.io/en/latest/)
+Self hosted nlopt library converted to Pod (https://nlopt.readthedocs.io/en/latest/). Note this does not have the C++ extensions. 
 
 ## Installation
 
