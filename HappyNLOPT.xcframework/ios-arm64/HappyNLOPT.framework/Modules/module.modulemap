@@ -1,0 +1,6 @@
+framework module HappyNLOPT {
+  umbrella header "HappyNLOPT.h"
+
+  export *
+  module * { export * }
+}

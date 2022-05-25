@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let opt = nlopt_create(NLOPT_LD_MMA, 2)
+        let opt = nlopt_create(NLOPT_LD_MMA, 2)!
         print(opt)
     }
 

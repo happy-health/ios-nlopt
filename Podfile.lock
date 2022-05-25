@@ -1,5 +1,5 @@
 PODS:
-  - HappyNLOPT (2.7.1)
+  - HappyNLOPT (2.7.1-xcframework)
 
 DEPENDENCIES:
   - HappyNLOPT (from `./`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "./"
 
 SPEC CHECKSUMS:
-  HappyNLOPT: 5bcfc13e074dcc031dd4f52d408f0408b8d1e6e7
+  HappyNLOPT: a71dbca8a3b08e1b9905ad9e5abf87458823fcb7
 
 PODFILE CHECKSUM: e7595de62189d3d13a21eb8a761c66a6f6668f5f
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.11.2

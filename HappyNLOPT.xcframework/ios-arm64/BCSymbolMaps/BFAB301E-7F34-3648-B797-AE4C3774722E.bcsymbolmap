@@ -1,0 +1,1383 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.5)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk
+iPhoneOS15.5.sdk
+/Users/haris/Library/Developer/Xcode/DerivedData/nlopt-aldzcabrzyhcljdwjouhmtztpudx/ArchiveIntermediates/HappyNLOPT/IntermediateBuildFilesPath/nlopt.build/Release-iphoneos/HappyNLOPT.build/DerivedSources/HappyNLOPT_vers.c
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1
+__ZNSt3__16vectorINS_8functionIFdPKdEEENS_9allocatorIS5_EEE9push_backEOS5_
+___clang_call_terminate
+__ZN3ags9NLPSolverD2Ev
+__ZNSt3__116__pad_and_outputIcNS_11char_traitsIcEEEENS_19ostreambuf_iteratorIT_T0_EES6_PKS4_S8_S8_RNS_8ios_baseES4_
+__ZNKSt3__113__vector_baseIdNS_9allocatorIdEEE20__throw_length_errorEv
+__ZNSt3__1L20__throw_length_errorEPKc
+__ZNSt12length_errorC1EPKc
+__ZNKSt3__113__vector_baseINS_8functionIFdPKdEEENS_9allocatorIS5_EEE20__throw_length_errorEv
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_0NS_9allocatorIS2_EEFdPKdEED1Ev
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_0NS_9allocatorIS2_EEFdPKdEED0Ev
+__ZNKSt3__110__function6__funcIZ12ags_minimizeE3$_0NS_9allocatorIS2_EEFdPKdEE7__cloneEv
+__ZNKSt3__110__function6__funcIZ12ags_minimizeE3$_0NS_9allocatorIS2_EEFdPKdEE7__cloneEPNS0_6__baseIS7_EE
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_0NS_9allocatorIS2_EEFdPKdEE7destroyEv
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_0NS_9allocatorIS2_EEFdPKdEE18destroy_deallocateEv
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_0NS_9allocatorIS2_EEFdPKdEEclEOS6_
+__ZNKSt3__110__function6__funcIZ12ags_minimizeE3$_0NS_9allocatorIS2_EEFdPKdEE6targetERKSt9type_info
+__ZNKSt3__110__function6__funcIZ12ags_minimizeE3$_0NS_9allocatorIS2_EEFdPKdEE11target_typeEv
+__ZNKSt9type_infoeqERKS_
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_1NS_9allocatorIS2_EEFdPKdEED1Ev
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_1NS_9allocatorIS2_EEFdPKdEED0Ev
+__ZNKSt3__110__function6__funcIZ12ags_minimizeE3$_1NS_9allocatorIS2_EEFdPKdEE7__cloneEv
+__ZNKSt3__110__function6__funcIZ12ags_minimizeE3$_1NS_9allocatorIS2_EEFdPKdEE7__cloneEPNS0_6__baseIS7_EE
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_1NS_9allocatorIS2_EEFdPKdEE7destroyEv
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_1NS_9allocatorIS2_EEFdPKdEE18destroy_deallocateEv
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_1NS_9allocatorIS2_EEFdPKdEEclEOS6_
+__ZNKSt3__110__function6__funcIZ12ags_minimizeE3$_1NS_9allocatorIS2_EEFdPKdEE6targetERKSt9type_info
+__ZNKSt3__110__function6__funcIZ12ags_minimizeE3$_1NS_9allocatorIS2_EEFdPKdEE11target_typeEv
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_2NS_9allocatorIS2_EEFbvEED1Ev
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_2NS_9allocatorIS2_EEFbvEED0Ev
+__ZNKSt3__110__function6__funcIZ12ags_minimizeE3$_2NS_9allocatorIS2_EEFbvEE7__cloneEv
+__ZNKSt3__110__function6__funcIZ12ags_minimizeE3$_2NS_9allocatorIS2_EEFbvEE7__cloneEPNS0_6__baseIS5_EE
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_2NS_9allocatorIS2_EEFbvEE7destroyEv
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_2NS_9allocatorIS2_EEFbvEE18destroy_deallocateEv
+__ZNSt3__110__function6__funcIZ12ags_minimizeE3$_2NS_9allocatorIS2_EEFbvEEclEv
+__ZNKSt3__110__function6__funcIZ12ags_minimizeE3$_2NS_9allocatorIS2_EEFbvEE6targetERKSt9type_info
+__ZNKSt3__110__function6__funcIZ12ags_minimizeE3$_2NS_9allocatorIS2_EEFbvEE11target_typeEv
+__ZNKSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE20__throw_length_errorEv
+_ags_minimize.cold.1
+_ags_minimize.cold.2
+__ZTVNSt3__110__function6__funcIZ12ags_minimizeE3$_0NS_9allocatorIS2_EEFdPKdEEE
+__ZTSNSt3__110__function6__funcIZ12ags_minimizeE3$_0NS_9allocatorIS2_EEFdPKdEEE
+__ZTSNSt3__110__function6__baseIFdPKdEEE
+__ZTINSt3__110__function6__baseIFdPKdEEE
+__ZTINSt3__110__function6__funcIZ12ags_minimizeE3$_0NS_9allocatorIS2_EEFdPKdEEE
+__ZTSZ12ags_minimizeE3$_0
+__ZTIZ12ags_minimizeE3$_0
+__ZTVNSt3__110__function6__funcIZ12ags_minimizeE3$_1NS_9allocatorIS2_EEFdPKdEEE
+__ZTSNSt3__110__function6__funcIZ12ags_minimizeE3$_1NS_9allocatorIS2_EEFdPKdEEE
+__ZTINSt3__110__function6__funcIZ12ags_minimizeE3$_1NS_9allocatorIS2_EEFdPKdEEE
+__ZTSZ12ags_minimizeE3$_1
+__ZTIZ12ags_minimizeE3$_1
+__ZTVNSt3__110__function6__funcIZ12ags_minimizeE3$_2NS_9allocatorIS2_EEFbvEEE
+__ZTSNSt3__110__function6__funcIZ12ags_minimizeE3$_2NS_9allocatorIS2_EEFbvEEE
+__ZTSNSt3__110__function6__baseIFbvEEE
+__ZTINSt3__110__function6__baseIFbvEEE
+__ZTINSt3__110__function6__funcIZ12ags_minimizeE3$_2NS_9allocatorIS2_EEFbvEEE
+__ZTSZ12ags_minimizeE3$_2
+__ZTIZ12ags_minimizeE3$_2
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc
+ags_minimize.cold.2
+src/algs/ags/ags.cc
+ags_minimize.cold.1
+__throw_length_error
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/string
+target_type
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__functional/function.h
+target
+operator()
+__call<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31) &>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__functional/invoke.h
+__invoke<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31) &>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/type_traits
+destroy_deallocate
+deallocate
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__memory/allocator.h
+__libcpp_deallocate
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/new
+__do_deallocate_handle_size<>
+__libcpp_operator_delete<void *>
+destroy
+__clone
+__func
+__alloc_func
+__compressed_pair<const (lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31) &, const std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31)> &>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__memory/compressed_pair.h
+__compressed_pair_elem<const (lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31) &, 0UL>
+__target
+first
+__get
+__compressed_pair<const (lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31) &, std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31)> &&>
+allocate
+__libcpp_allocate
+__libcpp_operator_new<unsigned long>
+~__func
+__call<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23) &, const double *>
+__invoke<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23) &, const double *>
+__compressed_pair<const (lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23) &, const std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23)> &>
+__compressed_pair_elem<const (lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23) &, 0UL>
+__compressed_pair<const (lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23) &, std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23)> &&>
+operator==
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/typeinfo
+__eq
+__type_name_to_string
+__is_type_name_unique
+__call<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25) &, const double *>
+__invoke<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25) &, const double *>
+__compressed_pair<const (lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25) &, const std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25)> &>
+__compressed_pair_elem<const (lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25) &, 0UL>
+__compressed_pair<const (lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25) &, std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25)> &&>
+~__split_buffer
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__split_buffer
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__memory/allocator_traits.h
+clear
+__destruct_at_end
+destroy<std::__1::function<double (const double *)>, void>
+~function
+~__value_func
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/vector
+__swap_out_circular_buffer
+swap<std::__1::function<double (const double *)> *>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__utility/swap.h
+__end_cap
+llvm.loop.mustprogress
+__construct_backward_with_exception_guarantees<std::__1::allocator<std::__1::function<double (const double *)> >, std::__1::function<double (const double *)> *>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/memory
+construct<std::__1::function<double (const double *)>, std::__1::function<double (const double *)> , void>
+construct<std::__1::function<double (const double *)>, std::__1::function<double (const double *)> >
+function
+__value_func
+__as_base
+~__vector_base
+length_error
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/stdexcept
+__vallocate
+vector<const double *>
+__construct_at_end<const double *>
+~_ConstructTransaction
+__construct_range_forward<std::__1::allocator<double>, const double, double, double, double, void>
+_ConstructTransaction
+distance<const double *>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__iterator/distance.h
+__distance<const double *>
+__vector_base
+__pad_and_output<char, std::__1::char_traits<char> >
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/locale
+width
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/ios
+sputn
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/streambuf
+~basic_string
+__get_long_pointer
+__is_long
+data
+__get_pointer
+basic_string
+__init
+assign
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__string
+__set_short_size
+__set_long_size
+__set_long_cap
+__set_long_pointer
+__recommend
+__align_it<16UL>
+__put_character_sequence<char, std::__1::char_traits<char> >
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/ostream
+setstate
+failed
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h
+fill
+widen
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__locale
+use_facet<std::__1::ctype<char> >
+eq_int_type
+flags
+ostreambuf_iterator
+rdbuf
+operator bool
+~shared_ptr
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__memory/shared_ptr.h
+__release_shared
+__libcpp_atomic_refcount_decrement<long>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__tree
+~NLPSolver
+src/algs/ags/solver.hpp
+~HookeJeevesOptimizer
+src/algs/ags/local_optimizer.hpp
+~vector
+~priority_queue
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/queue
+~set
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/set
+~__tree
+__root
+__end_node
+push_back
+__push_back_slow_path<std::__1::function<double (const double *)> >
+__split_buffer
+__compressed_pair<nullptr_t, std::__1::allocator<std::__1::function<double (const double *)> > &>
+__compressed_pair_elem<std::__1::allocator<std::__1::function<double (const double *)> > &, void>
+__compressed_pair_elem<nullptr_t, void>
+capacity
+__alloc
+size
+__construct_one_at_end<std::__1::function<double (const double *)> >
+ags_minimize
+operator[]
+operator<<
+endl<char, std::__1::char_traits<char> >
+operator<<<char, std::__1::char_traits<char>, std::__1::allocator<char> >
+operator<<<std::__1::char_traits<char> >
+back
+basic_string<nullptr_t>
+copy
+length
+function<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31), void>
+__value_func<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31), void>
+__value_func<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31), std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31)> >
+__compressed_pair<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31) &&, std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31)> &&>
+__compressed_pair_elem<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:65:31) &&, 0UL>
+SolverParameters
+function<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23), void>
+__value_func<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23), void>
+__value_func<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23), std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23)> >
+__compressed_pair<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23) &&, std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23)> &&>
+__compressed_pair_elem<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:45:23) &&, 0UL>
+function<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25), void>
+__value_func<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25), void>
+__value_func<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25), std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25)> >
+__compressed_pair<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25) &&, std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25)> &&>
+__compressed_pair_elem<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/ags.cc:39:25) &&, 0UL>
+vector
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/evolvent.cc
+__append
+swap<double *>
+__construct_backward_with_exception_guarantees<std::__1::allocator<double>, double, void>
+__construct_at_end
+construct<double, void>
+construct<double>
+node
+src/algs/ags/evolvent.cc
+mapd
+GetImage
+TransformToSearchDomain
+TransformToStandardCube
+Evolvent
+resize
+~Evolvent
+__ZNKSt3__113__vector_baseIjNS_9allocatorIjEEE20__throw_length_errorEv
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/local_optimizer.cc
+construct<unsigned int, const unsigned int &, void>
+construct<unsigned int, const unsigned int &>
+DoStep
+src/algs/ags/local_optimizer.cc
+operator->
+MakeResearch
+ComputeObjective
+Optimize
+swap<ags::Trial>
+operator=
+__move_assign
+__vdeallocate
+swap
+swap<std::__1::__shared_weak_count *>
+swap<ags::IGOProblem<double> *>
+shared_ptr
+__add_shared
+__libcpp_atomic_refcount_increment<long>
+SetParameters
+__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1IDnEEPKc
+__ZNSt3__114priority_queueIPN3ags8IntervalENS_6vectorIS3_NS_9allocatorIS3_EEEENS1_10CompareByREE4pushERKS3_
+__ZNSt3__120__shared_ptr_emplaceIN12_GLOBAL__N_115ProblemInternalENS_9allocatorIS2_EEED1Ev
+__ZNSt3__120__shared_ptr_emplaceIN12_GLOBAL__N_115ProblemInternalENS_9allocatorIS2_EEED0Ev
+__ZNSt3__120__shared_ptr_emplaceIN12_GLOBAL__N_115ProblemInternalENS_9allocatorIS2_EEE16__on_zero_sharedEv
+__ZNSt3__120__shared_ptr_emplaceIN12_GLOBAL__N_115ProblemInternalENS_9allocatorIS2_EEE21__on_zero_shared_weakEv
+__ZNK12_GLOBAL__N_115ProblemInternal9CalculateEPKdi
+__ZNK12_GLOBAL__N_115ProblemInternal20GetConstraintsNumberEv
+__ZNK12_GLOBAL__N_115ProblemInternal12GetDimensionEv
+__ZNK12_GLOBAL__N_115ProblemInternal9GetBoundsEPdS1_
+__ZNK12_GLOBAL__N_115ProblemInternal15GetOptimumPointEPd
+__ZNK12_GLOBAL__N_115ProblemInternal15GetOptimumValueEv
+__ZNSt3__113__vector_baseINS_8functionIFdPKdEEENS_9allocatorIS5_EEE5clearEv
+__ZNSt3__1L25__throw_bad_function_callEv
+__ZNSt3__117bad_function_callD1Ev
+__ZNSt3__117bad_function_callD0Ev
+__ZNKSt3__113__vector_baseIN3ags5TrialENS_9allocatorIS2_EEE20__throw_length_errorEv
+__ZNKSt3__113__vector_baseIPN3ags8IntervalENS_9allocatorIS3_EEE20__throw_length_errorEv
+__ZNSt3__110__function6__funcIZN3ags9NLPSolver5SolveEvE3$_0NS_9allocatorIS4_EEFbvEED1Ev
+__ZNSt3__110__function6__funcIZN3ags9NLPSolver5SolveEvE3$_0NS_9allocatorIS4_EEFbvEED0Ev
+__ZNKSt3__110__function6__funcIZN3ags9NLPSolver5SolveEvE3$_0NS_9allocatorIS4_EEFbvEE7__cloneEv
+__ZNKSt3__110__function6__funcIZN3ags9NLPSolver5SolveEvE3$_0NS_9allocatorIS4_EEFbvEE7__cloneEPNS0_6__baseIS7_EE
+__ZNSt3__110__function6__funcIZN3ags9NLPSolver5SolveEvE3$_0NS_9allocatorIS4_EEFbvEE7destroyEv
+__ZNSt3__110__function6__funcIZN3ags9NLPSolver5SolveEvE3$_0NS_9allocatorIS4_EEFbvEE18destroy_deallocateEv
+__ZNSt3__110__function6__funcIZN3ags9NLPSolver5SolveEvE3$_0NS_9allocatorIS4_EEFbvEEclEv
+__ZNKSt3__110__function6__funcIZN3ags9NLPSolver5SolveEvE3$_0NS_9allocatorIS4_EEFbvEE6targetERKSt9type_info
+__ZNKSt3__110__function6__funcIZN3ags9NLPSolver5SolveEvE3$_0NS_9allocatorIS4_EEFbvEE11target_typeEv
+__ZNSt3__19__sift_upIRN3ags10CompareByRENS_11__wrap_iterIPPNS1_8IntervalEEEEEvT0_S9_T_NS_15iterator_traitsIS9_E15difference_typeE
+__ZNSt3__111__sift_downIRN3ags10CompareByRENS_11__wrap_iterIPPNS1_8IntervalEEEEEvT0_S9_T_NS_15iterator_traitsIS9_E15difference_typeES9_
+__ZN3ags9NLPSolver5SolveEv.cold.1
+__ZN3ags9NLPSolver5SolveENSt3__18functionIFbvEEE.cold.1
+__ZTVNSt3__120__shared_ptr_emplaceIN12_GLOBAL__N_115ProblemInternalENS_9allocatorIS2_EEEE
+__ZTSNSt3__120__shared_ptr_emplaceIN12_GLOBAL__N_115ProblemInternalENS_9allocatorIS2_EEEE
+__ZTINSt3__120__shared_ptr_emplaceIN12_GLOBAL__N_115ProblemInternalENS_9allocatorIS2_EEEE
+__ZTVN12_GLOBAL__N_115ProblemInternalE
+__ZTSN12_GLOBAL__N_115ProblemInternalE
+__ZTSN3ags10IGOProblemIdEE
+__ZTIN3ags10IGOProblemIdEE
+__ZTIN12_GLOBAL__N_115ProblemInternalE
+__ZTSNSt3__117bad_function_callE
+__ZTINSt3__117bad_function_callE
+__ZTVNSt3__110__function6__funcIZN3ags9NLPSolver5SolveEvE3$_0NS_9allocatorIS4_EEFbvEEE
+__ZTSNSt3__110__function6__funcIZN3ags9NLPSolver5SolveEvE3$_0NS_9allocatorIS4_EEFbvEEE
+__ZTINSt3__110__function6__funcIZN3ags9NLPSolver5SolveEvE3$_0NS_9allocatorIS4_EEFbvEEE
+__ZTSZN3ags9NLPSolver5SolveEvE3$_0
+__ZTIZN3ags9NLPSolver5SolveEvE3$_0
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/solver.cc
+_ZN3ags9NLPSolver5SolveENSt3__18functionIFbvEEE.cold.1
+src/algs/ags/solver.cc
+_ZN3ags9NLPSolver5SolveEv.cold.1
+__sift_down<ags::CompareByR &, std::__1::__wrap_iter<ags::Interval **> >
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__algorithm/sift_down.h
+src/algs/ags/data_types.hpp
+operator+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__iterator/wrap_iter.h
+operator+=
+operator-<ags::Interval **, ags::Interval **>
+__sift_up<ags::CompareByR &, std::__1::__wrap_iter<ags::Interval **> >
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__algorithm/push_heap.h
+operator--
+__tree_balance_after_insert<std::__1::__tree_node_base<void *> *>
+__tree_left_rotate<std::__1::__tree_node_base<void *> *>
+__tree_is_left_child<std::__1::__tree_node_base<void *> *>
+__set_parent
+__parent_unsafe
+__tree_right_rotate<std::__1::__tree_node_base<void *> *>
+__insert_node_at
+__begin_node
+__emplace_unique_key_args<ags::Interval *, ags::Interval *const &>
+pair<std::__1::__tree_iterator<ags::Interval *, std::__1::__tree_node<ags::Interval *, void *> *, long>, bool &, false>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__utility/pair.h
+__construct_node<ags::Interval *const &>
+construct<ags::Interval *, ags::Interval *const &, void>
+construct<ags::Interval *, ags::Interval *const &>
+__find_equal<ags::Interval *>
+__root_ptr
+swap<unsigned int *>
+__construct_backward_with_exception_guarantees<std::__1::allocator<unsigned int>, unsigned int, void>
+construct<unsigned int, void>
+construct<unsigned int>
+swap<ags::Interval **>
+__construct_backward_with_exception_guarantees<std::__1::allocator<ags::Interval *>, ags::Interval *, void>
+construct<ags::Interval *, void>
+construct<ags::Interval *>
+__compressed_pair<nullptr_t, std::__1::allocator<ags::Trial> &>
+__compressed_pair_elem<std::__1::allocator<ags::Trial> &, void>
+swap<ags::Trial *>
+__construct_backward_with_exception_guarantees<std::__1::allocator<ags::Trial>, ags::Trial, void>
+second
+__construct_at_end<double *>
+__construct_range_forward<std::__1::allocator<double>, double, double, double, double, void>
+__construct_at_end<unsigned int *>
+__construct_range_forward<std::__1::allocator<unsigned int>, unsigned int, unsigned int, unsigned int, unsigned int, void>
+~bad_function_call
+__throw_bad_function_call
+bad_function_call
+swap<std::__1::__function::__base<double (const double *)> *>
+assign<std::__1::function<double (const double *)> *>
+__construct_at_end<std::__1::function<double (const double *)> *>
+__construct_range_forward<std::__1::allocator<std::__1::function<double (const double *)> >, std::__1::function<double (const double *)> *, std::__1::function<double (const double *)> *>
+construct<std::__1::function<double (const double *)>, std::__1::function<double (const double *)> &, void>
+construct<std::__1::function<double (const double *)>, std::__1::function<double (const double *)> &>
+copy<std::__1::function<double (const double *)> *, std::__1::function<double (const double *)> *>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__algorithm/copy.h
+__copy<std::__1::function<double (const double *)> *, std::__1::function<double (const double *)> *>
+__copy_constexpr<std::__1::function<double (const double *)> *, std::__1::function<double (const double *)> *>
+distance<std::__1::function<double (const double *)> *>
+__distance<std::__1::function<double (const double *)> *>
+GetOptimumValue
+GetOptimumPoint
+GetBounds
+GetDimension
+GetConstraintsNumber
+Calculate
+__on_zero_shared_weak
+__on_zero_shared
+~ProblemInternal
+__get_elem
+~__shared_ptr_emplace
+assign<double *>
+copy<double *, double *>
+__copy<double, double>
+distance<double *>
+__distance<double *>
+checkVectorsDiff
+UpdateH
+GetNextPointCoordinate
+pow<double, int>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/math.h
+push
+push_heap<std::__1::__wrap_iter<ags::Interval **>, ags::CompareByR>
+end
+__make_iter
+begin
+__push_back_slow_path<ags::Interval *const &>
+__construct_one_at_end<ags::Interval *const &>
+CalculateR
+UpdateAllH
+operator!=
+__tree_prev_iter<std::__1::__tree_node_base<void *> *, std::__1::__tree_end_node<std::__1::__tree_node_base<void *> *> *>
+__tree_max<std::__1::__tree_node_base<void *> *>
+operator*
+operator++
+__tree_next_iter<std::__1::__tree_end_node<std::__1::__tree_node_base<void *> *> *, std::__1::__tree_node_base<void *> *>
+__tree_min<std::__1::__tree_node_base<void *> *>
+__get_np
+MakeTrials
+CalculateNextPoints
+pop
+pop_back
+pop_heap<std::__1::__wrap_iter<ags::Interval **>, ags::CompareByR>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__algorithm/pop_heap.h
+__pop_heap<ags::CompareByR &, std::__1::__wrap_iter<ags::Interval **> >
+swap<ags::Interval *>
+top
+front
+RefillQueue
+EstimateOptimum
+InsertIntervals
+insert
+__insert_unique
+min<double>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__algorithm/min.h
+min<double, std::__1::__less<double, double> >
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__algorithm/comp.h
+Interval
+FirstIteration
+Solve
+function<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/solver.cc:153:16), void>
+__value_func<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/solver.cc:153:16), void>
+__value_func<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/solver.cc:153:16), std::__1::allocator<(lambda at /Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/ags/solver.cc:153:16)> >
+ClearDataStructures
+InitDataStructures
+fill<std::__1::__wrap_iter<unsigned int *>, int>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__algorithm/fill.h
+__fill<std::__1::__wrap_iter<unsigned int *>, int>
+fill_n<std::__1::__wrap_iter<unsigned int *>, long, int>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__algorithm/fill_n.h
+__fill_n<std::__1::__wrap_iter<unsigned int *>, long, int>
+operator-<unsigned int *, unsigned int *>
+fill<std::__1::__wrap_iter<double *>, double>
+__fill<std::__1::__wrap_iter<double *>, double>
+fill_n<std::__1::__wrap_iter<double *>, long, double>
+__fill_n<std::__1::__wrap_iter<double *>, long, double>
+operator-<double *, double *>
+src/algs/ags/evolvent.hpp
+GetHolderConstantsEstimations
+GetCalculationsStatistics
+__get_short_pointer
+SetProblem
+operator+<char, std::__1::char_traits<char>, std::__1::allocator<char> >
+__zero
+operator=<(anonymous namespace)::ProblemInternal>
+make_shared<(anonymous namespace)::ProblemInternal, const std::__1::vector<std::__1::function<double (const double *)>, std::__1::allocator<std::__1::function<double (const double *)> > > &, const std::__1::vector<double, std::__1::allocator<double> > &, const std::__1::vector<double, std::__1::allocator<double> > &, void>
+allocate_shared<(anonymous namespace)::ProblemInternal, std::__1::allocator<(anonymous namespace)::ProblemInternal>, const std::__1::vector<std::__1::function<double (const double *)>, std::__1::allocator<std::__1::function<double (const double *)> > > &, const std::__1::vector<double, std::__1::allocator<double> > &, const std::__1::vector<double, std::__1::allocator<double> > &, void>
+~__allocation_guard
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__memory/allocation_guard.h
+__shared_ptr_emplace<const std::__1::vector<std::__1::function<double (const double *)>, std::__1::allocator<std::__1::function<double (const double *)> > > &, const std::__1::vector<double, std::__1::allocator<double> > &, const std::__1::vector<double, std::__1::allocator<double> > &>
+ProblemInternal
+__shared_weak_count
+__shared_count
+__allocation_guard<std::__1::allocator<(anonymous namespace)::ProblemInternal> >
+InitLocalOptimizer
+max<double>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__algorithm/max.h
+max<double, std::__1::__less<double, double> >
+NLPSolver
+set
+__tree
+__compressed_pair<int, const ags::CompareIntervals &>
+__compressed_pair_elem<int, void>
+__compressed_pair<true, void>
+__compressed_pair_elem
+__tree_end_node
+HookeJeevesOptimizer
+_auglag
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/auglag/auglag.c
+auglag
+src/algs/auglag/auglag.c
+auglag_minimize
+_bobyqb_
+_update_
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/bobyqa/bobyqa.c
+update_
+src/algs/bobyqa/bobyqa.c
+bobyqb_
+prelim_
+rescale_fun
+altmov_
+rescue_
+trsbox_
+bobyqa
+_rect_diameter
+_function_eval
+_divide_rect
+_sort_fv_compare
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/cdirect/cdirect.c
+sort_fv_compare
+src/algs/cdirect/cdirect.c
+cdirect
+cdirect_uf
+divide_rect
+sort_fv
+function_eval
+rect_diameter
+cdirect_unscaled
+divide_good_rects
+small
+convex_hull
+cdirect_hyperrect_compare
+_fcount
+_optimize_rect
+_randomize_x
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/cdirect/hybrid.c
+randomize_x
+src/algs/cdirect/hybrid.c
+cdirect_hybrid
+optimize_rect
+fcount
+cdirect_hybrid_unscaled
+divide_largest
+longest
+_func_wrap
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/cobyla/cobyla.c
+func_wrap
+src/algs/cobyla/cobyla.c
+cobyla
+cobylb
+trstlp
+lcg_urand
+lcg_rand
+cobyla_minimize
+_crs_compare
+_random_trial
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/crs/crs.c
+random_trial
+src/algs/crs/crs.c
+crs_compare
+crs_minimize
+crs_destroy
+crs_trial
+crs_init
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/direct/DIRect.c
+direct_direct_
+src/algs/direct/DIRect.c
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/direct/DIRserial.c
+direct_dirsamplef_
+src/algs/direct/DIRserial.c
+_c__1
+_c__0
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/direct/DIRsubrout.c
+direct_dirsummary_
+src/algs/direct/DIRsubrout.c
+direct_dirheader_
+direct_dirpreprc_
+direct_dirinitlist_
+direct_dirinit_
+llvm.loop.isvectorized
+direct_dirget_i__
+direct_dirinfcn_
+direct_dirdivide_
+dirsearchmin_
+dirinsertlist_2__
+direct_dirsamplepoints_
+direct_dirinsertlist_
+dirinsert_
+direct_dirreplaceinf_
+dirresortlist_
+isinbox_
+direct_dirgetmaxdeep_
+direct_dirdoubleinsert_
+direct_dirchoose_
+direct_dirgetlevel_
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/direct/direct_wrap.c
+direct_optimize
+src/algs/direct/direct_wrap.c
+_randcauchy
+_CompareIndividuals
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/esch/esch.c
+CompareIndividuals
+src/algs/esch/esch.c
+randcauchy
+chevolutionarystrategy
+_key_compare
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/isres/isres.c
+key_compare
+src/algs/isres/isres.c
+isres_minimize
+imax2
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/luksan/mssubs.c
+luksan_mxvset__
+src/algs/luksan/mssubs.c
+luksan_mxvneg__
+luksan_mxvdif__
+luksan_mxuzer__
+luksan_mxuneg__
+luksan_mxvdot__
+luksan_mxucop__
+luksan_mxvcop__
+luksan_mxdrsu__
+luksan_mxdrmm__
+luksan_mxdrcf__
+luksan_mxudir__
+luksan_mxudot__
+luksan_mxdrcb__
+luksan_mxvscl__
+luksan_mxdcmd__
+luksan_mxvdir__
+luksan_mxdcmu__
+luksan_mxvlin__
+luksan_mxvsav__
+luksan_mxdcmv__
+luksan_mxvine__
+luksan_mxvmax__
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/luksan/plip.c
+luksan_plip
+src/algs/luksan/plip.c
+plip_
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/luksan/plis.c
+luksan_plis
+src/algs/luksan/plis.c
+plis_
+_c_b7
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/luksan/pnet.c
+luksan_pnet
+src/algs/luksan/pnet.c
+pnet_
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/luksan/pssubs.c
+luksan_pytrcs__
+src/algs/luksan/pssubs.c
+luksan_pytrcg__
+luksan_pytrcd__
+luksan_pyrmc0__
+luksan_pyfut1__
+luksan_pyadc0__
+luksan_pulvp3__
+luksan_pulsp3__
+luksan_ps1l01__
+luksan_pnint1__
+luksan_pcbs04__
+_pt_compare
+_lm_compare
+_get_minf
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/mlsl/mlsl.c
+get_minf
+src/algs/mlsl/mlsl.c
+lm_compare
+pt_compare
+mlsl_minimize
+pts_update_newlm
+distance2
+is_potential_minimizer
+pts_update_newpt
+find_closest_lm
+find_closest_pt
+alloc_pt
+gam
+_g0
+_gi
+_dual_func
+_gfunc
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/mma/ccsa_quadratic.c
+gfunc
+src/algs/mma/ccsa_quadratic.c
+sqr
+dual_func
+gi
+g0
+ccsa_quadratic_minimize
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/mma/mma.c
+src/algs/mma/mma.c
+mma_minimize
+_simplex_compare
+_reflectpt
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/neldermead/nldrmd.c
+nldrmd_minimize
+src/algs/neldermead/nldrmd.c
+reflectpt
+close
+simplex_compare
+nldrmd_minimize_
+_p_compare
+_subspace_func
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/neldermead/sbplx.c
+subspace_func
+src/algs/neldermead/sbplx.c
+p_compare
+sbplx_minimize
+_quad_model
+_rho_constraint
+_lag
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/newuoa/newuoa.c
+lag
+src/algs/newuoa/newuoa.c
+rho_constraint
+quad_model
+newuoa
+newuob_
+trsapp_
+bigden_
+biglag_
+_min_
+_flin_
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/praxis/praxis.c
+flin_
+src/algs/praxis/praxis.c
+min_
+praxis_
+sort_
+minfit_
+quad_
+_dcopy___
+_lsq_
+_dnrm2___
+_ldl_
+_h12_
+_c__2
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/slsqp/slsqp.c
+h12_
+src/algs/slsqp/slsqp.c
+ldl_
+dnrm2___
+lsq_
+lsei_
+dcopy___
+ddot_sl__
+lsi_
+daxpy_sl__
+ldp_
+nnls_
+dsrot_
+dsrotg_
+hfti_
+dscal_sl__
+nlopt_slsqp
+slsqp
+slsqpb_
+length_work
+__ZNSt3__114priority_queueI4TBoxNS_6vectorIS1_NS_9allocatorIS1_EEEENS_4lessIS1_EEE4pushERKS1_
+__ZNSt3__114priority_queueI4TBoxNS_6vectorIS1_NS_9allocatorIS1_EEEENS_4lessIS1_EEE3popEv
+__ZN6Global17ObjectiveGradientERK7RVectorRS0_6whichO
+__ZN6GlobalD1Ev
+__ZN6GlobalD0Ev
+__ZNSt3__116allocator_traitsINS_9allocatorI4TBoxEEE7destroyIS2_vEEvRS3_PT_
+__ZNKSt3__113__vector_baseI4TBoxNS_9allocatorIS1_EEE20__throw_length_errorEv
+__ZNSt3__19__sift_upIRNS_4lessI4TBoxEENS_11__wrap_iterIPS2_EEEEvT0_S8_T_NS_15iterator_traitsIS8_E15difference_typeE
+__ZNSt3__111__sift_downIRNS_4lessI4TBoxEENS_11__wrap_iterIPS2_EEEEvT0_S8_T_NS_15iterator_traitsIS8_E15difference_typeES8_
+__ZN6GlobalD2Ev
+__ZTS6Global
+__ZTS12GlobalParams
+__ZTI12GlobalParams
+__ZTI6Global
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/stogo/global.cc
+~Global
+src/algs/stogo/global.h
+~list
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/list
+~__list_imp
+~TBox
+src/algs/stogo/tools.h
+~VBox
+~RVector
+src/algs/stogo/linalg.h
+__sift_down<std::__1::less<TBox> &, std::__1::__wrap_iter<TBox *> >
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__functional/operations.h
+operator<
+operator-<TBox *, TBox *>
+__sift_up<std::__1::less<TBox> &, std::__1::__wrap_iter<TBox *> >
+swap<TBox *>
+__construct_backward_with_exception_guarantees<std::__1::allocator<TBox>, TBox *>
+construct<TBox, const TBox &, void>
+construct<TBox, const TBox &>
+destroy<Trial, void, void>
+~Trial
+__unlink_nodes
+__end_as_link
+empty
+__sz
+destroy<TBox, void>
+ObjectiveGradient
+AddPoint
+src/algs/stogo/global.cc
+ClearSolSet
+GetDomain
+SetDomain
+SetMinValue
+GetMinValue
+GetTime
+DispMinimizers
+copy<std::__1::__list_iterator<Trial, void *>, std::__1::ostream_iterator<Trial, char, std::__1::char_traits<char> > >
+__copy<std::__1::__list_iterator<Trial, void *>, std::__1::ostream_iterator<Trial, char, std::__1::char_traits<char> > >
+__copy_constexpr<std::__1::__list_iterator<Trial, void *>, std::__1::ostream_iterator<Trial, char, std::__1::char_traits<char> > >
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__iterator/ostream_iterator.h
+remove_if<std::__1::__list_iterator<Trial, void *>, TrialGT>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__algorithm/remove_if.h
+find_if<std::__1::__list_iterator<Trial, void *>, TrialGT &>
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__algorithm/find_if.h
+erase
+OneMinimizer
+NoMinimizers
+pop_heap<std::__1::__wrap_iter<TBox *>, std::__1::less<TBox> >
+__pop_heap<std::__1::less<TBox> &, std::__1::__wrap_iter<TBox *> >
+swap<TBox>
+Search
+InTime
+push_heap<std::__1::__wrap_iter<TBox *>, std::__1::less<TBox> >
+__push_back_slow_path<const TBox &>
+__compressed_pair<nullptr_t, std::__1::allocator<TBox> &>
+__compressed_pair_elem<std::__1::allocator<TBox> &, void>
+__construct_one_at_end<const TBox &>
+ReduceOrSubdivide
+~unique_ptr
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/c++/v1/__memory/unique_ptr.h
+reset
+__link_nodes_at_back
+__as_link
+construct<Trial, const Trial &, void>
+construct<Trial, const Trial &>
+__allocate_node
+NewtonTest
+FillRandom
+FillRegular
+Global
+__list_const_iterator
+priority_queue
+list
+__list_imp
+__compressed_pair<int, std::__1::__default_init_tag>
+__list_node_base
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/stogo/linalg.cc
+src/algs/stogo/linalg.cc
+ger
+RMatrix
+gemv
+axpy
+dot
+normInf
+norm2
+scal
+nrm2
+RVector
+eps
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/stogo/local.cc
+local
+src/algs/stogo/local.cc
+~RMatrix
+GetLength
+__ZN8MyGlobalD1Ev
+__ZN8MyGlobal17ObjectiveGradientERK7RVectorRS0_6whichO
+__ZN8MyGlobalD0Ev
+__ZTS8MyGlobal
+__ZTI8MyGlobal
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/stogo/stogo.cc
+~MyGlobal
+src/algs/stogo/stogo.cc
+raw_data_const
+raw_data
+stogo_minimize
+MyGlobal
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/algs/stogo/tools.cc
+insert<std::__1::__list_const_iterator<Trial, void *> >
+__link_nodes
+Trial
+src/algs/stogo/tools.cc
+assign<std::__1::__list_const_iterator<Trial, void *> >
+LowerBound
+GetDim
+Intersection
+FarthestSide
+ClosestSide
+ShortestSide
+OutsideBox
+dispTrials
+InsideBox
+LongestSide
+split
+AddTrial
+NStationary
+CloseToMin
+ClearBox
+GetTrial
+LastTrial
+FirstTrial
+GetLastTrial
+RemoveTrial
+EmptyBox
+GetMin
+TBox
+Midpoint
+Width
+VBox
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/api/deprecated.c
+nlopt_minimize
+src/api/deprecated.c
+nlopt_minimize_constrained
+nlopt_minimize_econstrained
+nlopt_set_stochastic_population
+nlopt_get_stochastic_population
+nlopt_set_local_search_algorithm
+nlopt_get_local_search_algorithm
+_f77_func_wrap_old
+_free_f77_func_data
+_dup_f77_func_data
+_f77_func_wrap
+_f77_mfunc_wrap
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/api/f77api.c
+NLO_GET_INITIAL_STEP
+src/api/f77funcs_.h
+NLO_SET_INITIAL_STEP1
+NLO_SET_INITIAL_STEP
+NLO_SET_DEFAULT_INITIAL_STEP
+NLO_SET_vector_storage
+NLO_GET_vector_storage
+NLO_SET_POPULATION
+NLO_GET_POPULATION
+NLO_SET_LOCAL_OPTIMIZER
+NLO_FORCE_STOP
+NLO_SET_FORCE_STOP
+NLO_GET_FORCE_STOP
+NLO_SET_X_WEIGHTS1
+NLO_SET_X_WEIGHTS
+NLO_GET_X_WEIGHTS
+NLO_SET_MAXTIME
+NLO_GET_MAXTIME
+NLO_GET_NUMEVALS
+NLO_SET_MAXEVAL
+NLO_GET_MAXEVAL
+NLO_SET_XTOL_ABS1
+NLO_SET_XTOL_ABS
+NLO_GET_XTOL_ABS
+NLO_SET_XTOL_REL
+NLO_GET_XTOL_REL
+NLO_SET_FTOL_ABS
+NLO_GET_FTOL_ABS
+NLO_SET_FTOL_REL
+NLO_GET_FTOL_REL
+NLO_SET_STOPVAL
+NLO_GET_STOPVAL
+NLO_ADD_EQUALITY_MCONSTRAINT
+NLO_ADD_EQUALITY_CONSTRAINT
+NLO_REMOVE_EQUALITY_CONSTRAINTS
+NLO_ADD_INEQUALITY_MCONSTRAINT
+NLO_ADD_INEQUALITY_CONSTRAINT
+NLO_REMOVE_INEQUALITY_CONSTRAINTS
+NLO_SET_UPPER_BOUNDS1
+NLO_SET_UPPER_BOUNDS
+NLO_GET_UPPER_BOUNDS
+NLO_SET_LOWER_BOUNDS1
+NLO_SET_LOWER_BOUNDS
+NLO_GET_LOWER_BOUNDS
+NLO_GET_DIMENSION
+NLO_GET_ALGORITHM
+NLO_SET_MAX_OBJECTIVE
+NLO_SET_MIN_OBJECTIVE
+NLO_OPTIMIZE
+NLO_DESTROY
+NLO_COPY
+NLO_CREATE
+NLOSSP
+src/api/f77funcs.h
+NLOGSP
+NLOSLS
+NLOGLS
+NLOPTV
+NLOSRT
+NLOSR
+NLOPTM
+NLOPTC
+nlo_get_initial_step
+nlo_set_initial_step1
+nlo_set_initial_step
+nlo_set_default_initial_step
+nlo_set_vector_storage
+nlo_get_vector_storage
+nlo_set_population
+nlo_get_population
+nlo_set_local_optimizer
+nlo_force_stop
+nlo_set_force_stop
+nlo_get_force_stop
+nlo_set_x_weights1
+nlo_set_x_weights
+nlo_get_x_weights
+nlo_set_maxtime
+nlo_get_maxtime
+nlo_get_numevals
+nlo_set_maxeval
+nlo_get_maxeval
+nlo_set_xtol_abs1
+nlo_set_xtol_abs
+nlo_get_xtol_abs
+nlo_set_xtol_rel
+nlo_get_xtol_rel
+nlo_set_ftol_abs
+nlo_get_ftol_abs
+nlo_set_ftol_rel
+nlo_get_ftol_rel
+nlo_set_stopval
+nlo_get_stopval
+nlo_add_equality_mconstraint
+nlo_add_equality_constraint
+nlo_remove_equality_constraints
+nlo_add_inequality_mconstraint
+nlo_add_inequality_constraint
+nlo_remove_inequality_constraints
+nlo_set_upper_bounds1
+nlo_set_upper_bounds
+nlo_get_upper_bounds
+nlo_set_lower_bounds1
+nlo_set_lower_bounds
+nlo_get_lower_bounds
+nlo_get_dimension
+nlo_get_algorithm
+nlo_set_max_objective
+nlo_set_min_objective
+nlo_optimize
+nlo_destroy
+nlo_copy
+nlo_create
+nlossp
+nlogsp
+nlosls
+nlogls
+nloptv
+nlosrt
+nlosr
+nloptm
+nloptc
+nlo_get_initial_step__
+nlo_set_initial_step1__
+nlo_set_initial_step__
+nlo_set_default_initial_step__
+nlo_set_vector_storage__
+nlo_get_vector_storage__
+nlo_set_population__
+nlo_get_population__
+nlo_set_local_optimizer__
+nlo_force_stop__
+nlo_set_force_stop__
+nlo_get_force_stop__
+nlo_set_x_weights1__
+nlo_set_x_weights__
+nlo_get_x_weights__
+nlo_set_maxtime__
+nlo_get_maxtime__
+nlo_get_numevals__
+nlo_set_maxeval__
+nlo_get_maxeval__
+nlo_set_xtol_abs1__
+nlo_set_xtol_abs__
+nlo_get_xtol_abs__
+nlo_set_xtol_rel__
+nlo_get_xtol_rel__
+nlo_set_ftol_abs__
+nlo_get_ftol_abs__
+nlo_set_ftol_rel__
+nlo_get_ftol_rel__
+nlo_set_stopval__
+nlo_get_stopval__
+nlo_add_equality_mconstraint__
+nlo_add_equality_constraint__
+nlo_remove_equality_constraints__
+nlo_add_inequality_mconstraint__
+nlo_add_inequality_constraint__
+nlo_remove_inequality_constraints__
+nlo_set_upper_bounds1__
+nlo_set_upper_bounds__
+nlo_get_upper_bounds__
+nlo_set_lower_bounds1__
+nlo_set_lower_bounds__
+nlo_get_lower_bounds__
+nlo_get_dimension__
+nlo_get_algorithm__
+nlo_set_max_objective__
+nlo_set_min_objective__
+nlo_optimize__
+nlo_destroy__
+nlo_copy__
+nlo_create__
+nlo_get_initial_step_
+nlo_set_initial_step1_
+nlo_set_initial_step_
+nlo_set_default_initial_step_
+nlo_set_vector_storage_
+nlo_get_vector_storage_
+nlo_set_population_
+nlo_get_population_
+nlo_set_local_optimizer_
+nlo_force_stop_
+nlo_set_force_stop_
+nlo_get_force_stop_
+nlo_set_x_weights1_
+nlo_set_x_weights_
+nlo_get_x_weights_
+nlo_set_maxtime_
+nlo_get_maxtime_
+nlo_get_numevals_
+nlo_set_maxeval_
+nlo_get_maxeval_
+nlo_set_xtol_abs1_
+nlo_set_xtol_abs_
+nlo_get_xtol_abs_
+nlo_set_xtol_rel_
+nlo_get_xtol_rel_
+nlo_set_ftol_abs_
+nlo_get_ftol_abs_
+nlo_set_ftol_rel_
+nlo_get_ftol_rel_
+nlo_set_stopval_
+nlo_get_stopval_
+nlo_add_equality_mconstraint_
+nlo_add_equality_constraint_
+nlo_remove_equality_constraints_
+f77_mfunc_wrap
+src/api/f77api.c
+nlo_add_inequality_mconstraint_
+nlo_add_inequality_constraint_
+nlo_remove_inequality_constraints_
+nlo_set_upper_bounds1_
+nlo_set_upper_bounds_
+nlo_get_upper_bounds_
+nlo_set_lower_bounds1_
+nlo_set_lower_bounds_
+nlo_get_lower_bounds_
+nlo_get_dimension_
+nlo_get_algorithm_
+nlo_set_max_objective_
+f77_func_wrap
+nlo_set_min_objective_
+nlo_optimize_
+nlo_destroy_
+nlo_copy_
+dup_f77_func_data
+free_f77_func_data
+nlo_create_
+nlossp_
+nlogsp_
+nlosls_
+nlogls_
+nloptv_
+nlosrt_
+nlosr_
+nloptm_
+f77_func_wrap_old
+nloptc_
+_nlopt_algorithm_names
+_nlopt_srand_called
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/api/general.c
+nlopt_srand_time_default
+src/api/general.c
+nlopt_srand_time
+nlopt_srand
+nlopt_result_from_string
+nlopt_result_to_string
+nlopt_algorithm_from_string
+nlopt_algorithm_to_string
+nlopt_algorithm_name
+nlopt_version
+_f_max
+_pre_max
+_elimdim_func
+_elimdim_mfunc
+_f_direct
+_initial_step
+_f_bound
+_f_noderiv
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/api/optimize.c
+f_noderiv
+src/api/optimize.c
+f_bound
+initial_step
+f_direct
+elimdim_mfunc
+elimdim_func
+nlopt_optimize_limited
+pre_max
+f_max
+nlopt_optimize
+elimdim_expand
+elimdim_dimension
+elimdim_destroy
+nlopt_optimize_
+finite_domain
+elimdim_shrink
+elimdim_create
+elimdim_makedata
+elimdim_wrapcheck
+_add_constraint
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/api/options.c
+nlopt_get_errmsg
+src/api/options.c
+nlopt_munge_data
+nlopt_set_default_initial_step
+nlopt_unset_errmsg
+nlopt_get_initial_step
+nlopt_set_initial_step
+nlopt_set_initial_step1
+nlopt_set_vector_storage
+nlopt_get_vector_storage
+nlopt_set_population
+nlopt_get_population
+nlopt_set_munge
+nlopt_set_local_optimizer
+nlopt_set_min_objective
+nlopt_get_dimension
+nlopt_get_algorithm
+nlopt_force_stop
+nlopt_set_force_stop
+nlopt_get_force_stop
+nlopt_set_maxtime
+nlopt_get_maxtime
+nlopt_get_numevals
+nlopt_set_maxeval
+nlopt_get_maxeval
+nlopt_get_x_weights
+nlopt_set_x_weights1
+nlopt_set_x_weights
+nlopt_get_xtol_abs
+nlopt_set_xtol_abs1
+nlopt_set_xtol_abs
+nlopt_set_xtol_rel
+nlopt_get_xtol_rel
+nlopt_set_ftol_abs
+nlopt_get_ftol_abs
+nlopt_set_ftol_rel
+nlopt_get_ftol_rel
+nlopt_set_stopval
+nlopt_get_stopval
+nlopt_add_equality_constraint
+nlopt_add_precond_equality_constraint
+equality_ok
+nlopt_add_equality_mconstraint
+nlopt_remove_equality_constraints
+nlopt_add_inequality_constraint
+nlopt_add_precond_inequality_constraint
+inequality_ok
+add_constraint
+nlopt_add_inequality_mconstraint
+nlopt_remove_inequality_constraints
+nlopt_get_upper_bounds
+nlopt_set_upper_bound
+nlopt_set_upper_bounds
+nlopt_get_lower_bounds
+nlopt_set_lower_bound
+nlopt_set_lower_bounds
+nlopt_set_max_objective
+nlopt_set_precond_max_objective
+nlopt_set_precond_min_objective
+nlopt_nth_param
+nlopt_num_params
+nlopt_has_param
+nlopt_get_param
+nlopt_set_errmsg
+nlopt_set_param
+nlopt_copy
+nlopt_set_upper_bounds1
+nlopt_set_lower_bounds1
+nlopt_create
+nlopt_destroy
+_nlopt_genrand_int32
+_mt
+_mti
+_nlopt_genrand_int32.mag01
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/util/mt19937ar.c
+nlopt_nrand
+src/util/mt19937ar.c
+nlopt_urand
+nlopt_genrand_res53
+nlopt_genrand_int32
+nlopt_init_genrand
+nlopt_iurand
+_med3
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/util/qsort_r.c
+nlopt_qsort_r
+src/util/qsort_r.c
+med3
+qsort_r_fallback
+swapfunc
+_destroy
+_insert_node
+_check_node
+_find_le
+_find_lt
+_find_gt
+_rotate_left
+_rotate_right
+_shift_keys
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/util/redblack.c
+shift_keys
+src/util/redblack.c
+nlopt_rb_tree_shift_keys
+nlopt_rb_tree_resort
+rotate_right
+rotate_left
+nlopt_rb_tree_remove
+nlopt_rb_tree_pred
+nlopt_rb_tree_max
+find_gt
+nlopt_rb_tree_find_gt
+find_lt
+nlopt_rb_tree_find_lt
+find_le
+nlopt_rb_tree_find_le
+nlopt_rb_tree_find
+check_node
+nlopt_rb_tree_check
+insert_node
+nlopt_rb_tree_insert
+nlopt_rb_tree_succ
+nlopt_rb_tree_min
+nlopt_rb_tree_destroy_with_keys
+nlopt_rb_tree_destroy
+nlopt_rb_tree_init
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/util/rescale.c
+nlopt_reorder_bounds
+src/util/rescale.c
+nlopt_new_rescaled
+nlopt_rescale
+nlopt_unscale
+nlopt_compute_rescaling
+_sobol_gen
+_sobol_a
+_sobol_minit
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/util/sobolseq.c
+nlopt_sobol_skip
+src/util/sobolseq.c
+nlopt_sobol_next
+sobol_gen
+rightzero32
+nlopt_sobol_next01
+nlopt_sobol_destroy
+sobol_destroy
+nlopt_sobol_create
+sobol_init
+_diff_norm
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/util/stop.c
+nlopt_isnan
+src/util/stop.c
+__inline_isnand
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/math.h
+nlopt_istiny
+nlopt_isfinite
+nlopt_isinf
+nlopt_stop_msg
+nlopt_vsprintf
+nlopt_eval_constraint
+nlopt_max_constraint_dim
+nlopt_count_constraints
+nlopt_stop_forced
+nlopt_stop_evalstime
+nlopt_stop_time
+nlopt_stop_time_
+nlopt_stop_evals
+nlopt_stop_xs
+sc
+vector_norm
+nlopt_stop_dx
+diff_norm
+nlopt_stop_x
+nlopt_stop_f
+nlopt_stop_ftol
+relstop
+_nlopt_seconds.start_inited
+_nlopt_seconds.start
+/Users/haris/Documents/happy/code/ios/nlopt-2.7.1/src/util/timer.c
+nlopt_time_seed
+src/util/timer.c
+nlopt_seconds
